@@ -2,6 +2,9 @@
 
 A modern, full-stack web application built to showcase a cafe's menu, reviews, and offerings. Designed to boost local popularity and streamline online visibility for The J&H Cafe in Charbagh, Lucknow, this platform features a modern UI and a robust database architecture.
 
+<img width="1901" height="846" alt="image" src="https://github.com/user-attachments/assets/07a964d8-44fb-48aa-80b6-cab21a420531" />
+
+
 ## 🚀 Tech Stack
 
 Frontend: React, Vite, JavaScript, HTML, CSS
